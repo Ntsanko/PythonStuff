@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 26 11:45:53 2019
 
-@author: i1 Solutions User
+@author: Ntsanko
 """
 ##had no idea of the existence of special functions here
 key_string = "abcdefghijklmnopqrstuvwxyz"
