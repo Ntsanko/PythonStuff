@@ -31,6 +31,3 @@ print("=========")
 ##Moving on to the next level
 print("Solution for next level")
 print("map".translate(dict))
-
-
-97999810099101
